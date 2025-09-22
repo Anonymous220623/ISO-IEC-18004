@@ -19,5 +19,5 @@ This document is from the British Standards Online (BSOL). You can also obtain m
 1. 此处提供的文档未加任何水印，如果您发现有水印未去除，欢迎提 Issue；
 2. 本项目不收取任何费用和捐款，使用该文档时请遵守国际标准化组织（ISO）和国际电工委员会（IEC）的版权条款，侵权后果自负。
 ---
-1. The documents provided here are not watermarked. If you find that a watermark has not been removed, please file an issue.
+1. The document provided here is not watermarked. If you find that a watermark has not been removed, please file an issue.
 2. This project does not charge any fees or donations. Please comply with the copyright terms of the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) when using this document. Any infringement will be at your own risk.
