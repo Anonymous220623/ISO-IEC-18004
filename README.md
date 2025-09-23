@@ -2,7 +2,7 @@
 
 本仓库存储 ISO/IEC-18004:2024（第四版，2024-08） 无水印英文文档，以供有文档需求却不想承担高昂的文档费用的爱好者使用。
 
-This repository stores ISO/IEC-18004:2024(Fourth Edition, 2024-08) watermark-free English documents for enthusiasts who need documents but do not want to bear the high cost of documents.
+This repository stores ISO/IEC-18004:2024(Fourth Edition, 2024-08) watermark-free documents for enthusiasts who need documents but do not want to bear the high cost of documents.
 
 ## 下载地址 / Download Link
 
