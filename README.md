@@ -21,3 +21,5 @@ This document is from the British Standards Online (BSOL). You can also register
 ---
 1. The document provided here is not watermarked. If you find that a watermark has not been removed, please file an issue.
 2. This project does not charge any fees or donations. Please comply with the copyright terms of the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) when using this document. Any infringement will be at your own risk.
+---
+期待中文翻译...
